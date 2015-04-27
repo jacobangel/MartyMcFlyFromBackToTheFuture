@@ -5,6 +5,8 @@ The best flux implementation around
 
 ### Async
 
+```
 let McFly = require('MartyMcFlyFromBacktotheFuture/inADelorean')
+```
 
 
