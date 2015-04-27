@@ -1,0 +1,29 @@
+{
+  "name": "MartyMcFlyFromBackToTheFuture",
+  "version": "1.0.0",
+  "description": "The best implementation of flux around.",
+  "main": "index.js",
+  "dependencies": {
+    "flux": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobangel/MartyMcFlyFromBackToTheFuture.git"
+  },
+  "keywords": [
+    "kewl",
+    "beans",
+    "future",
+    "newnew"
+  ],
+  "author": "Jacob Angel",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/jacobangel/MartyMcFlyFromBackToTheFuture/issues"
+  },
+  "homepage": "https://github.com/jacobangel/MartyMcFlyFromBackToTheFuture"
+}
